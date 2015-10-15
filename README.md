@@ -1,4 +1,4 @@
-# ProjetoMegalodonte
+# Projeto InSign
 
 O projeto consiste no desenvolvimento de um site e-commerce de assinaturas de serviços e produtos (clube de assinatura). 
 Esse site deve funcionar de forma fácil para que comerciantes possam vender e divulgar suas assinaturas sem precisar gastar tempo, esforço e recurso financeiro para desenvolvimento de seus próprios sites de venda de assinaturas, permitindo a ele o enfoque na qualidade do atendimento ao cliente e do produto ou prestação de serviço. 
